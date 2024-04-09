@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-dev",
+  "name": "@alexsandro/eslint-config-dev",
   "version": "1.0.0",
   "private": false,
   "description": "",
